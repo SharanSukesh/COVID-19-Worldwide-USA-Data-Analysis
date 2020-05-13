@@ -19,6 +19,8 @@ The python notebook __"COVID-19 WORLDWIDE EDA"__ explores the current situation 
 
 It also looks into some metrics such as the death rate with respect to positive cases and rate of positive cases with respect to the number of tests. 
 
+### Since the graphs are implemented using plotly, they do not appear in the github preview. The notebook will need to be run using an environment like Jupyter notebook for the graphs to be visible.
+
 ## Libraries used 
 * Pandas
 * Numpy
