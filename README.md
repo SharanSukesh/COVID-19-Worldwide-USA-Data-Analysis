@@ -1,4 +1,4 @@
-# COVID-19-Worldwide-USA-Data-Analysis
+# COVID-19 Worldwide/USA Data Analysis
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
