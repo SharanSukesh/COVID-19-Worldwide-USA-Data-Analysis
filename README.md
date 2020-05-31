@@ -6,9 +6,8 @@
 * [About the Project](#about-the-project)
 * [Libraries used](#libraries-used)
 * [Dataset used](#dataset-used)
-* [Built on](#built-on)
+* [Built with](#built-on)
 * [Questions answered](#questions-answered)
-* [Model Training and Testing Steps](#model-training-and-testing-steps)
 * [Ackowledgements](#ackowledgements)
 * [Author](#author)
 
